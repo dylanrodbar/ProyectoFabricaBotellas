@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagen/07.jpg</file>
+        <file>imagen/Botellas limpias 1.PNG</file>
+        <file>imagen/Botellas limpias 2.PNG</file>
+        <file>imagen/Botellas llenadas.PNG</file>
+        <file>imagen/Caja.PNG</file>
+        <file>imagen/Camion.PNG</file>
+        <file>imagen/Fondo.PNG</file>
+        <file>imagen/Imspección de calidad.PNG</file>
+        <file>imagen/Limpia botellas.PNG</file>
+        <file>imagen/Logo.PNG</file>
+        <file>imagen/Marcador Global.PNG</file>
+        <file>imagen/Nombres.PNG</file>
+        <file>imagen/Pone botellas.PNG</file>
+        <file>imagen/Tapa botellas.PNG</file>
+        <file>imagen/Botellas limpias3.png</file>
+    </qresource>
+</RCC>
